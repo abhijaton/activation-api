@@ -1,8 +1,6 @@
 {
   "build": {
-    "builder": "NIXPACKS"
-  },
-  "deploy": {
-    "startCommand": "dotnet ActivationAPI.dll"
+    "builder": "DOCKERFILE",
+    "dockerfilePath": "Dockerfile"
   }
 }

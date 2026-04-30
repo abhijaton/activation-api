@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ActivationAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76748032aa2c05b0194e329cef9d20db38361f7a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe31b701bc49b9e4856e77dde81f4ae55160cf8b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ActivationAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ActivationAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
